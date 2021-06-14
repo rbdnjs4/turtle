@@ -31,4 +31,4 @@ Demo
 Test Inference
 You can test the inference feature with a single image.
 
-$ python run.py --model=mobilenet_thin --resize=432x368 --image=./images/p1.jpg
+$ python run_webcam2.py
